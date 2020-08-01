@@ -15,8 +15,8 @@ as informaçoes do primeiros topicos da pagina.
 
 Utilizei alguns framework´s para facilitar o desenvolvimento.
 
- • HtmlAgilityPack
- • .NETFramework 4.1.
+ • HtmlAgilityPack<br>
+ • .NETFramework 4.1.<br>
 <br>
 
 # Execute
