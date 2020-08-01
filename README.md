@@ -21,8 +21,15 @@ Utilizei alguns framework´s para facilitar o desenvolvimento.
 
 # Execute
 
-![Screenshot](executadoApiCEP.gif)
+## Navigate to Page MSDN
 
+![Screenshot](paginaMsdn.gif)
+
+<br><br>
+
+## Execute the Code (Srapping) to  Forms
+
+![Screenshot](ScrappingMSDN.gif)
 
 <br><br>
 ## 🚀 Technologies Used 
